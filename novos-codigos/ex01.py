@@ -1,0 +1,1 @@
+#Crie um algoritmo para armazerar uma string e outra para armazenar uma lista de strings
